@@ -16,7 +16,7 @@ Follow these steps to serve the project locally using Laravel:
 
 Clone the Repository:
 
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/Rajan9877/URL_Shortener_Using_Laravel.git
 cd url-shortener
 Install Dependencies:
 
